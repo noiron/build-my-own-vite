@@ -1,0 +1,22 @@
+{
+  "name": "build-my-own-vite",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noiron/build-my-own-vite.git"
+  },
+  "keywords": [
+    "vite"
+  ],
+  "author": "noiron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noiron/build-my-own-vite/issues"
+  },
+  "homepage": "https://github.com/noiron/build-my-own-vite#readme"
+}
