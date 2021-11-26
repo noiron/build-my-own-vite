@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/noiron/build-my-own-vite/issues"
   },
-  "homepage": "https://github.com/noiron/build-my-own-vite#readme"
+  "homepage": "https://github.com/noiron/build-my-own-vite#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
 }
