@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node vite/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,5 @@
     "url": "https://github.com/noiron/build-my-own-vite/issues"
   },
   "homepage": "https://github.com/noiron/build-my-own-vite#readme",
-  "dependencies": {
-    "connect": "^3.7.0"
-  }
+  "dependencies": {}
 }
